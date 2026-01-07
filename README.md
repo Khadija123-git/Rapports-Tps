@@ -38,6 +38,6 @@ Ce dépôt regroupe l’ensemble des rapports réalisés dans le cadre du module
 
 L'ensemble des rapports a été produit en travail collaboratif par les trois membres du groupe, chacun ayant contribué à la collecte, l’analyse et la rédaction des contenus. Les fichiers sont déposés ici conformément aux exigences académiques pour validation.
 
-e  
+
 Date de remise : Janvier 2026
 
